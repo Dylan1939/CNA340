@@ -14,7 +14,7 @@ These instructions will install pycharm on your local machine.
 Python requires pycharm to run, with no other additional packages. The commands below will install pycharm on to your local system. 
 
 
-Link: [Pycharm]https://www.jetbrains.com/pycharm/download/#section=windows)
+Link: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
 
 ## Running
